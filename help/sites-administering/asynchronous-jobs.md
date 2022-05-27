@@ -127,7 +127,7 @@ If the number of references to the page(s) to be moved exceeds the threshold num
 ### Configure Asynchronous MSM Operations {#configuring-asynchronous-msm-operations}
 
 1. From the Global Navigation click **[!UICONTROL Tools]** &gt; **[!UICONTROL Operations]** &gt; **[!UICONTROL Web Console]**.
-1. From the web console, open the **[!UICONTROL Async Page Move Operation Job Processing Configuration.]**
+1. From the web console, open the **[!UICONTROL Async MSM Rollout Operation Job Processing Configuration.]**
 1. Check the option **Enable email notification** to receive email notifications for this job status. e.g. success, failed.
 
    ![MSM config](assets/async-msm.png)
